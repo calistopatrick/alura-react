@@ -1,6 +1,6 @@
 import './Banner.css'
 
-export const  Banner = () =>{
+export const Banner = () =>{
     //JSX
     return(
         <header className="banner">
